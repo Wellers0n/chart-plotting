@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./chart.png" height="130"/>
+    <img src="./icon.png" height="130"/>
 </p>
 <p>
    <h1 align="center">Chart-plotting</h1>
