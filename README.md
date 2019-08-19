@@ -9,7 +9,7 @@
 
 ## Chart-plotting JS and TS
   
-  chart-plotting uses a stack full `JS` on the backend, I'm making this project to improve
+  chart-plotting uses a stack full `JS`, I'm making this project to improve
   my skills.
   
 ## Initing in the your PC
