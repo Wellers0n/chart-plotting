@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./chart.png" height="130"/>
+    <img src="./icon.png" height="250"/>
 </p>
 <p>
    <h1 align="center">Chart-plotting</h1>
@@ -9,7 +9,7 @@
 
 ## Chart-plotting JS and TS
   
-  chart-plotting uses a stack full `JS` on the backend, I'm making this project to improve
+  chart-plotting uses a stack full `JS`, I'm making this project to improve
   my skills.
   
 ## Initing in the your PC
