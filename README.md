@@ -7,7 +7,7 @@
     
 <br/>
 
-## Chart-plotting JS and TS
+## Chart-plotting JS
   
   chart-plotting uses a stack full `JS`, I'm making this project to improve
   my skills.
