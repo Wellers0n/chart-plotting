@@ -21,8 +21,6 @@ export default function Title(props) {
       gutterBottom
     >
       <div data-testid="nome">{`${props.nome}'s Challenge`}</div>
-      <div data-testid="nome1">Challenge</div>
-
     </Typography>
   );
 }
