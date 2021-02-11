@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.3.2",
-    "apexcharts": "^3.8.4",
+    "apexcharts": "^3.24.0",
     "codemirror": "^5.48.4",
     "js-beautify": "^1.10.2",
     "react": "^16.9.0",
